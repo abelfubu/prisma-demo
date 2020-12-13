@@ -6,6 +6,7 @@ Adding prisma to the project
 
 - `yarn add @prisma/cli -D`
 - `yarn add @prisma/client`
+- `npx prisma init`
 
 Once we have our model
 
